@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ui-enter-password/static/css/main.618220e8.css",
+    "main.js": "/ui-enter-password/static/js/main.f0ffa5b6.js",
+    "static/js/787.09b58ddd.chunk.js": "/ui-enter-password/static/js/787.09b58ddd.chunk.js",
+    "static/media/logo.svg": "/ui-enter-password/static/media/logo.13673a8000a9b16d2d0964ae197fdfaa.svg",
+    "index.html": "/ui-enter-password/index.html",
+    "main.618220e8.css.map": "/ui-enter-password/static/css/main.618220e8.css.map",
+    "main.f0ffa5b6.js.map": "/ui-enter-password/static/js/main.f0ffa5b6.js.map",
+    "787.09b58ddd.chunk.js.map": "/ui-enter-password/static/js/787.09b58ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.618220e8.css",
+    "static/js/main.f0ffa5b6.js"
+  ]
+}
